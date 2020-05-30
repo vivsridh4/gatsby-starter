@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `VickyBytes`,
+    title: `VickyBytes - From a Developer to Developers`,
     author: {
       name: `Vivek Sridhar`,
-      summary: `is a technophile and an Open Source contributor with around 14 years experience in the Software Industry and works at Microsoft as Sr.Developer Product Marketing Manager / Technology Evangelist. In his previous role, he has mentored startups/developers, speaker at conferences/meetups for DigitalOcean as Senior Developer Advocate, Co-Founder / Chief-Architect of NoodleNext Technology. He was also heading DevOps and QA at BlackBuck and was a DevOps Solution Architect at HCL (Australia) in client engagement. Vivek started his career with IBM Rational (India Software Labs) as a Software Developer and is passionate about working with the software developer. Published 3 papers in international forums which include 1 international journal`
+      summary: `is a Technophile | Open Source Contributor | DevRel Team @ Microsoft India | Ex-Sr. Developer Advocate @ DigitalOcean | Co-Founder & Chief Architect @ NoodleNext Technology  | Heading DevOps @ BlackBuck | DevOps Architect @ HCL | an IBMer as Software Developer | DevOps & Cloud enthusiast | A wanderlust`
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
